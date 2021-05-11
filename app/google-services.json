@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351651157468",
+    "firebase_url": "https://best-bucket-default-rtdb.firebaseio.com",
+    "project_id": "best-bucket",
+    "storage_bucket": "best-bucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351651157468:android:81be7393953a86825a6b19",
+        "android_client_info": {
+          "package_name": "com.example.bestbucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351651157468-c0icg14okqdlssguulqog6i2jlfsip61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXv8aFQQkyjbKtkwT3sDQf-zselcelSUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351651157468-c0icg14okqdlssguulqog6i2jlfsip61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

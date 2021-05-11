@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Best Bucket</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="already_registered_login_here">already registered? Login here</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="best_bucket">Best Bucket</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="join_now">Join Now</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="new_here_create_new_account">New here ? Create New Account</string>
+    <string name="forgot_my_password">Forgot my password</string>
+    <string name="todo">TODO</string>
+    <string name="search_your_product">What are you looking for?</string>
+    <string name="daraz">Daraz</string>
+    <string name="new_watch">New Watch</string>
+    <string name="_500_tk">500 TK</string>
+    <string name="product_name">Product Name</string>
+    <string name="brand">Brand</string>
+    <string name="price">Price</string>
+    <string name="product_description">Product Description</string>
+
+
+</resources>
