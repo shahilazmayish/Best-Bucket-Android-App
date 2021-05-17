@@ -1,4 +1,4 @@
-# Best Bucket v1.0 Web Application
+# Best Bucket Android Application
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 ## What is Best Bucket
