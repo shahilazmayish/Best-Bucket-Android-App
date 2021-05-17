@@ -1,4 +1,4 @@
-# Best Bucket v1.0
+# Best Bucket v1.0 Web Application
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 ## What is Best Bucket
