@@ -29,9 +29,10 @@ For Admin
 
 ## Screen Shot of the App
 > Welcome Screen
-![1-welcome-screen](https://user-images.githubusercontent.com/30392912/150981357-a6ab4cf6-803f-436f-b4a4-84680c2edcb1.jpg)
+> ![1-welcome-screen](https://user-images.githubusercontent.com/30392912/150981357-a6ab4cf6-803f-436f-b4a4-84680c2edcb1.jpg)
 
 > Sign up Screen
+
 ![2-sign-up](https://user-images.githubusercontent.com/30392912/150981365-5eaac1e4-8784-4db7-b190-66147b290e09.jpg)
 
 > Login Screen
