@@ -24,7 +24,6 @@ For Admin
 * Anaconda Navigator 
 * Selenium bot 
 * Panda 
-* Panda 
 * Microsoft excel 
 * JSON Data format
 
