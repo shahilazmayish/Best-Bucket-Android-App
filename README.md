@@ -7,12 +7,11 @@ The app "Best Bucket" is a online platform product comparison from various super
 ![image](https://user-images.githubusercontent.com/30392912/118420726-6e56a100-b6e1-11eb-8d67-85b2590cbad3.png)
 ## Features
 
-For User
+#### For User
 * Authentication (Sign in, Login, Forgot pass)
 * Search item
-* Clickable to the main Product page
-
-For Admin
+* Clickable to the main Product page 
+#### For Admin
 * Upload New Product from Admin panel
 
 ![image](https://user-images.githubusercontent.com/30392912/118420726-6e56a100-b6e1-11eb-8d67-85b2590cbad3.png)
@@ -27,7 +26,7 @@ For Admin
 * Microsoft excel 
 * JSON Data format
 
-## Screen Shot of the App
+## Screen Shots of the App
 > Welcome Screen
 
 ![1-welcome-screen](https://user-images.githubusercontent.com/30392912/150981357-a6ab4cf6-803f-436f-b4a4-84680c2edcb1.jpg)
