@@ -27,33 +27,23 @@ For Admin
 * Microsoft excel 
 * JSON Data format
 
+## Screen Shot of the App
+> Welcome Screen
+![1-welcome-screen](https://user-images.githubusercontent.com/30392912/150981357-a6ab4cf6-803f-436f-b4a4-84680c2edcb1.jpg)+
+> Sign up Screen
+![2-sign-up](https://user-images.githubusercontent.com/30392912/150981365-5eaac1e4-8784-4db7-b190-66147b290e09.jpg)
+> Login Screen
+![3-login](https://user-images.githubusercontent.com/30392912/150981372-5ccc600f-1b7a-44e1-bc08-6cea49ae31ab.jpg)
+> Home Screen
+![4-home](https://user-images.githubusercontent.com/30392912/150981380-257fb3ce-1bc3-4c56-8bb7-52a379407d12.jpg)
+> Search Product
+![5-sheach-product](https://user-images.githubusercontent.com/30392912/150981387-8485d5aa-2a9c-41e0-8fde-9040805ad9d2.jpg)
+> Product Page
+![6-product-page](https://user-images.githubusercontent.com/30392912/150981396-d32d9a6a-8658-462f-82d3-ebb3cf4ee8be.jpg)
+> Browse to the Original Product
+![7-browse-to-the-original-product-page](https://user-images.githubusercontent.com/30392912/150981405-b4a23584-54b8-42f5-a5ce-bd571bd0184f.jpg)
+
+
 ## Conclusion
 
 Our project is about to compare the product from different website and show the best result based on price, quality and shop review. Our main motto is to show people the best product with the best options. Often people get confused from where what should they buy. By using our site people with make a fine conclusion on their confusion. Another thing is we will keep our site very user friendly. So anyone can use this without facing any hassle. But we don’t have much experience about this. Firstly we will make a smaller one late we will make a public version. We will develop our project and update our works regularly. 
-
-
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-
-       
