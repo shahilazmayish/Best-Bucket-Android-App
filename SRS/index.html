@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  	<title>SRS - Best Busket</title>
+
+  	<link rel="icon" href="src/GroceryLogo.png" type="image/gif" sizes="16x16">
+  	<link rel="stylesheet" href="theme.css" type="text/css">
+  	<link rel="stylesheet" href="theme_extra.css" type="text/css">
+
+  	<script>
+  		hljs.initHighlightingOnLoad();
+  	</script>
+</head>
+
+<body class="wy-body-for-nav" role="document" cz-shortcut-listen="true">
+
+	<div class="wy-grid-for-nav">
+		<nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    		<header>
+    			<!--<img src="src/GroceryLogo.png" alt="GroceryUI" style="width:15%"></img>
+    			Best Grocery</header>-->
+    			<div class="wy-side-scroll">
+
+					<!--<div style="padding: 10px">Competitive Grocery System</div>-->
+
+					<div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                		<ul class="current">
+                    		<li class="toctree-l1 current">
+                    			<a class="reference internal" href="#Cover">Cover Page</a>
+    						</li>
+    					</ul>
+    					<ul class="current">
+      						<li class="toctree-l1">
+      							<a class="reference internal" href="#Introduction">Introduction</a>
+    						</li>
+						</ul>
+    					<ul class="current">
+      						<li class="toctree-l1">
+      							<a class="reference internal" href="#Overall">Overall Description</a>
+    						</li>
+						</ul>
+    					<ul class="current">
+      						<li class="toctree-l1">
+      							<a class="reference internal" href="#External-Interface-Requirements">External Interface Requirements</a>
+    						</li>
+  						</ul>
+  						<ul class="current">
+      						<li class="toctree-l1">
+      							<a class="reference internal" href="#System-Features">System Features</a>
+    						</li>
+  						</ul>
+  						<ul class="current">
+      						<li class="toctree-l1">
+      							<a class="reference internal" href="#Other-Nonfunctional-Requirements">Other Nonfunctional Requirements</a>
+    						</li>
+  						</ul>
+  						<ul class="current">
+     	 					<li class="toctree-l1">
+     	 						<a class="reference internal" href="#Other-requirements">Other Requirements</a>
+    						</li>
+  						</ul>
+					</div>
+    			</div>
+    		</header>
+    	</nav>
+
+    	<section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+			<div class="wy-nav-content">
+        		<div class="rst-content">
+        			<div role="navigation" aria-label="breadcrumbs navigation">
+						<hr>
+					</div>
+        			<div role="main">
+            			<div class="section">
+										<head>
+		<style>
+										div.a {
+		text-align: justify;
+		-moz-text-align-last: right;
+		text-align-last: right;
+		}</style>
+		</head>
+		<div class="a">
+            		<div id="Cover" style="padding-left: 100px">
+                <h1>Software Requirements</h1>
+                <h1>Specification</h1><br>
+								<h4>for</h4>
+								<h1 style="color: #DC143C";>Best Basket</h1>
+								<h3>The Competitive Grocery System</h3><br/>
+								<h5>Version 1.0 approved</h5><br><br>
+								<h5>Prepared by</h5>
+								<h5 style="line-height: 0px";>Robiul Ferdous Fahim - 1510112642</h5>
+								<h5 style="line-height: 0px";>Rifat Hossain Khan - 1520240642</h5>
+								<h5 style="line-height: 0px";>Shehzin Masud - 1620690042</h5>
+								<h5 style="line-height: 0px";>Shahil Azmayish - 1721552640</h5><br><br>
+							  <h5>October 19, 2019</h5>
+                </div>
+								</div>
+								<footer>
+									<div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+									</div>
+								</footer>
+							</div>
+							<footer>
+								<div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+								</div>
+							</footer>
+      					</div>
+      					<hr>
+      				</div>
+
+					<div role="main">
+            			<div class="section">
+							<h2 id="Introduction">1. Introduction</h2>
+							<h4>1.1 Purpose</h4>
+							<p>The app "Best Basket" is a daily grocery price comparison app from your near supermarkets. It seeks for various prices for products and gives you the best combination list of stores with delivery charge. It also provides up-to-date sales. Notifications about the new product, big sale etc. Currently this of mobile application does not exist. The project is being built for the customers to have the experience of grocery shopping cheap and easy.</p>
+							<h4>1.2 Document Conventions</h4>
+							<p>Bold face and bullet points are used to introduce a new topic or a specific subject matter. The rest of the document is written in regular Helvetica</p>
+							<h4>1.3 Intended Audience and Reading Suggestions</h4>
+							<p>The SRS document has been developed for many readers of different backgrounds. Different sections of this document will prove to be more important to some than others. Developers will want to focus on sections 2, 3, and 4. Other teams working with the same game will likely want to focus on section 2. Project managers will want to understand the product (section 2) and will want to review the non-functional requirements (section 5) and ensure they are implemented. The user will want to understand how the product works so will be interested in section 2 and 4.</p>
+							<h4>1.4 Product Scope</h4>
+							<p>The Competitive Grocery App System is will be both a web application and a mobile application designed to help</p>
+							<hr>
+							<h4 id="References">1.5 References</h4>
+							<a style="color:#5DADE2;" href="https://material.io/design/introduction/">Google’s Material Design interface style guide</a><br>
+							<a style="color:#5DADE2;" href="https://cloud.google.com/vision/">Google Vision API</a><br>
+							<a style="color:#5DADE2;" href="https://firebase.google.com/">Google FIrebase Backend Service</a>
+							<br /><br /><br />
+
+							<h2 id="Overall">2. Overall Description</h2>
+
+							<h4>2.1 Product Perspective</h4>
+							<p>
+								This kind of app allows the user to determine the best combination of the required products with delivery charge. It also makes and save grocery lists. Other features could be the ability to share lists with others, set reminders on default items (such as buying milk once a week), and updating lists in real time so others viewing them online will also see the changes.<br>Large online supermarket such as Shwapno, Meena Click, Chaldal, Othoba etc. now have their own website or app. Each supermarket chain has an app that offers varying features. However, the most common features are shopping lists, discounts/coupons to scan at checkout, and (more recently) delivery. But these applications are responsible for: that they restrict the user’s shopping to their particular brand/store. This works out beautifully if you only have one grocery store to shop at (like in a rural area). But as you explore grocery store options in a city-like area, you will find there are more stores/brands to choose from. The objective is to allow the user to add items from 3-4 different stores if needed.<br>This will provide users with a 360-degree view of the price list of the same product, without the restrictions typically imposed by having a fixed number of perspectives as one would typically find in a supermarket-specific grocery.
+							</p>
+							<h4>2.2 Product Functions</h4>
+							<p>
+								The major features are:
+							</p>
+							<ul>
+								<li>List of grocery stores and products</li>
+								<li>Virtual cart page</li>
+								<li>Comparison Prices</li>
+								<li>Set Reminder</li>
+								<li>Push notifications</li>
+							</ul>
+							<b>Cross platform support:</b>This application can be accessed from any web browser as well as from mobile platforms: Android.<br /><br />
+							<img src="uml/UML_usecase.png" alt="GroceryUI" style="width:60%">
+							<p style="font-size:90%">
+								<i><center>Figure-1.1: Use-cases </i></center></p>
+							<h4>2.3	User Classes and Characteristics</h4>
+							<p>The major features are:
+							<ul>
+								<li>
+									The user should be familiar with the concept of online shopping world. The concept of “Comparison on a specific product” gives the user to reveal different areas of shopping just in a short time that will be intuitive to all users, however some basic familiarity with some online shop like Daraz, Amazon.
+								</li>
+								<li>
+									Setup and installation of this software on an Android mobile device will require regular installing app experience.
+								</li>
+								<li>
+									Instruction on the use of an Android mobile device will not require any kind of expertise on the part of the user. Anyone with the basic knowledge of using android phone can easily use this application.
+								</li>
+							</ul>
+
+							<h4>2.4 Operating Environment</h4>
+							<p>This application will work on:<br><br>
+							Any web browser on <em>Windows, Mac, Linux</em> and <em>Ubuntu</em><br>
+							A downloadable app from Google Playstore for <em>Android</em> will be available for mobile platforms</p>
+							<h4>2.5 Design and Implementation Constraints</h4>
+							<ul>
+								<li>
+									This app only supports a single user at a time.
+								</li>
+								<li>
+									Network or internet connections are required to search the products.
+								</li>
+								<li>
+									Android devices vary in capabilities / technology supported, and thus we cannot guarantee universal access to our application across all Android platforms.
+								</li>
+								<li>
+									Android operating system is regularly updated by Google, and future iterations may not be compatible with current versions of API.
+								</li>
+								<li>
+									The software will not be maintained by the developer following release, which may result in compatibility issues in the future.
+								</li>
+							</ul>
+							<h4>2.6 User Documentation</h4>
+							<p>
+								We will keep the design simple and straight forward. And the instructions will be given after every steps. That’s why documentation is not that much important here but still there will a helpline option where users will be able to drop comments and requirements. So if needed we can improve the product.
+							</p>
+							<h4>2.7 Assumptions and Dependencies</h4>
+							<ul>
+								<li>
+									Products Feeds are basically data of products info (price, size, image, description, all related to products) in well-structured form like XML or CSV or Excel or JSON.
+								</li>
+							</ul>
+							<hr />
+							<h2 id="External-Interface-Requirements">3. External Interface Requirements</h2>
+							<h4>3.1 User Interfaces</h4>
+							<p>The primary user interface will be mobile user interface and can run on Android version above 6.0<br>We have also working on a web based user interface.</p>
+
+							<img src="src/login.jpg" alt="GroceryUI" style="width:33.24%">
+							<img src="src/home.jpg" alt="GroceryUI" style="width:32.24%">
+							<img src="src/search&compare.jpg" alt="GroceryUI" style="width:33.24%">
+
+							<h4>3.2 Hardware Interfaces</h4>
+							<p>
+								Android smart phone: At least 1GB, preferably higher.
+								Computer: Minimum 2 GHz minimum, multi-core processor, Ram at least 2GB, preferably higher.
+							</p>
+							<h4>3.3 Software Interfaces</h4>
+							<p> Any web browser on computer and "Best Basket" app on smart phone</p>
+							<h4>3.4 Communications Interfaces</h4>
+							<p>There are no external communications interface requirements.</p>
+							<hr />
+							<h2 id="System-Features">4. System Features</h2>
+							<img src="src/feature.jpg" alt="software feature" style="width: 75%">
+							<h5>4.1.3 Functional Requirements</h5>
+							<p>
+								1. Ordered product should be a valied item. <br />
+								2. Customer need a ID on the system.
+							</p>
+							<hr />
+
+							<h2 id="Other-Nonfunctional-Requirements">5. Other Nonfunctional Requirements</h2>
+
+							<h4>5.1 Performance Requirements</h4>
+							<p>
+								1. View list Login, Log out	will respond in 15 seconds.
+								2. System will confirm order in 20 seconds
+							</p>
+							<h4>5.2 Safety Requirements</h4>
+							<p>
+
+							</p>
+							<h4>5.3 Security Requirements</h4>
+							<p>
+								This program uses object oriented mechanisms to protect its data passed using methods. All passwords are encrypted before being store in the database.
+							</p>
+							<h4>5.4 Software Quality Attributes</h4>
+							<p>
+								The system will be checked from time to time for errors and if errors are found, an error message will pop up to show where the error lies.The system will check if it is simple to handle and easy to navigate within the most expected means with no delays. Checking that the system give the proper tools for written material question databases,creating session tests and analyzing the test sessions.
+							</p>
+							<h4>5.5 Business Rules</h4>
+							<p>
+								Any individual may have use of the Grocery Comparison system for academic or personal use. As the project is part of the development of the open-source project code, documents, or other materials used for this project cannot be used for commercial purposes. However, others wishing to further develop the code after the project’s completion are free to do so.
+							</p>
+							<hr />
+
+							<h2 id="Other-requirements">6. Other Requirements</h2>
+							<p>
+								Currently there are no other known requirements for the project however, this may change in the event of unforeseen circumstances encountered during the duration of the project.
+							</p>
+							<h4>Appendix A: Glossary</h4>
+							<p>
+								<b>Android</b> – an operating system designed for mobile devices (i.e. cell phones, tablet computers) by Google, Inc.<br>
+								<b>Android device</b> – any device running Android. In this document, synonymous to “smart phone running Android.”
+							</p>
+							<h4>Appendix B: Analysis Models</h4>
+							<p>
+
+							</p>
+							<h4>Appendix C: To Be Determined List</h4>
+							<p>
+
+							</p>
+  							<hr/>
+  						</div>
+  					</div>
+						<head>
+        <title>Hide element at print</title>
+        <style>
+						@media print {
+               .noprint {
+                  visibility: hidden;
+               }
+            }
+        </style>
+				<button class = "noprint" id="printPageButton" onClick="window.print();">Print SRS document</button>
+    </head>
+  				</div>
+  			</div>
+  		</section>
+  	</div>
+</body>
+</html>
